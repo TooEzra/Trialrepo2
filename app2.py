@@ -1,3 +1,3 @@
 print ("Hello World!")
 
-print ("This is a simple Python script.")
+print ("This is one simple Python script.")
